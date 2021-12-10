@@ -461,9 +461,7 @@ This only sounds confusing until you see what this means in practice:
 42 
  
  a sub b      /putting 'sub' between its operands is not going to work
-a sub b
-^
-***WIP    this actually throws ES, wtf
+!type
 
 ```
 
